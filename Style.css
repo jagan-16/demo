@@ -1,19 +1,17 @@
 *{
-margin: 16px; 
-padding: 16px;
-border:16px;
-box-sizing:border-box;
+margin: 18px;
+padding: 18px;
+border: 18px;
+box-sizing: border-box;
 }
 
 
 h1{
-margin: 22px; 
+margin: 18px;
 padding: 18px;
-border:20px;
-box-sizing:border-box;
-background: blue;
-width: 126px;
-height:128px;
-color: #05ea9f;
+border: 18px;
+box-sizing: border-box;
+background: #000;
+color:#efe;
 }
-  
+ 
